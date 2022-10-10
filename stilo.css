@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&family=Noto+Serif+Telugu:wght@700&display=swap');
+
+body{
+    font-family: 'Noto Serif Telugu', serif;
+}
+
+.data{
+    color: #0077b6;
+    margin: 10px;
+}
+
+.blog{
+    background-color: beige;
+    width: 50%;
+    margin: 40px 320px;
+}
+
+h1{
+    margin: 10px;
+}
+.texto{
+    margin: 10px;
+}
+
+hr{
+    margin: 10px;
+}
+
+
